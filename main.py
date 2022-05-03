@@ -291,3 +291,5 @@ import time
 # var = lambda x: x * 5
 #
 # print(var(4))
+
+print('check')
