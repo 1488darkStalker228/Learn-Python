@@ -292,4 +292,3 @@ import time
 #
 # print(var(4))
 
-print('check')
